@@ -130,6 +130,8 @@ export class PreferencesComponent implements OnInit {
         return 'sa';
       case Language.PROGRAMMING:
         return 'dev';
+      case Language.HEBREW:
+        return 'he';
       default:
         return 'unknown';
     }

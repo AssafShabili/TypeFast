@@ -25,6 +25,7 @@ export enum Language {
   PORTUGUESE = 'portuguese',
   RUSSIAN = 'russian',
   SPANISH = 'spanish',
+  HEBREW = 'hebrew',
   PROGRAMMING = 'programming',
 }
 
